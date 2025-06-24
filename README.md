@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Me 👋 
+### California State University East Bay
+#### M.S Business Analytics
+### San Francisco State University
+#### B.S Business Information Systems, Minor in Computer Science
+### Berkeley City College
+#### A.S Business Administration
 
 <!--
 **patrickmims/patrickmims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
